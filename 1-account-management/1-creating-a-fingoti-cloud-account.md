@@ -16,7 +16,7 @@ Get 1,000 free Ripples when you sign up today!
 
 {% contextualCallout severity="info" %}
 The Fingoti Cloud is required to claim Fingoti devices.
-{% /contextualCallout severity="info" %}
+{% /contextualCallout %}
 
 1. [Go to the registration page](https://account.fingoti.com/register)
 
@@ -42,7 +42,7 @@ The Fingoti Cloud is required to claim Fingoti devices.
 
    {% contextualCallout severity="info" %}
    Passwords must be at least six characters long, have at least one uppercase letter, one number, and one symbol.
-   {% /contextualCallout severity="info" %}
+   {% /contextualCallout %}
 
    1. Press Next Step
 
