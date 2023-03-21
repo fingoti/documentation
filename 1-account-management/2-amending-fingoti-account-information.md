@@ -56,10 +56,13 @@ Change your password, or enable multi-factor authentication.
 
 ![Screenshot of the Security page](common/security.png)
 
+{% contextualCallout severity="info" %}
+To enable multi-factor authentication, go to [Enabling multi-factor authentication](/enabling-multi-factor-authentication)
+{% /contextualCallout %}
 Multi-factor authentication is covered in upcoming documentation.
 
 {% contextualCallout severity="info" %}
-Resetting your password is done separately from the Security page, and is covered in upcoming documentation.
+To reset your password, go to [Resetting a Fingoti account password](/resetting-a-fingoti-account-password)
 {% /contextualCallout %}
 
 [Go to the Security page](https://account.fingoti.com/user/security).
