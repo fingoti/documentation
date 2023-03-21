@@ -54,7 +54,7 @@ Tokens are covered in upcoming documentation.
 
 Change your password, or enable multi-factor authentication.
 
-![Screenshot of the Security page](amending-fingoti-account-information/security.png)
+![Screenshot of the Security page](common/security.png)
 
 Multi-factor authentication is covered in upcoming documentation.
 
