@@ -20,7 +20,7 @@ The Fingoti Cloud is required to claim Fingoti devices.
 
 1. [Go to the registration page](https://account.fingoti.com/register)
 
-   ![Screenshot of the Fingoti account registration page](creating-a-fingoti-cloud-account/how-it-works.png)
+   ![Screenshot of the Fingoti account registration page](creating-a-fingoti-account/how-it-works.png)
 
    <!-- TODO Link to the org creation page -->
 
@@ -30,13 +30,13 @@ The Fingoti Cloud is required to claim Fingoti devices.
 
    1. Press Continue
 
-      ![Screenshot of Continue and Cancel buttons](creating-a-fingoti-cloud-account/continue.png)
+      ![Screenshot of Continue and Cancel buttons](creating-a-fingoti-account/continue.png)
 
 2. Enter your personal information
 
    <!-- TODO Use an image tag for captions -->
 
-   ![Screenshot of the Create User page](creating-a-fingoti-cloud-account/create-user.png)
+   ![Screenshot of the Create User page](creating-a-fingoti-account/create-user.png)
 
    Required fields are denoted by an asterisk `*`. Namely, providing a phone number is optional.
 
@@ -46,7 +46,7 @@ The Fingoti Cloud is required to claim Fingoti devices.
 
    1. Press Next Step
 
-      ![Screenshot of the Next Step button](creating-a-fingoti-cloud-account/next-step.png)
+      ![Screenshot of the Next Step button](creating-a-fingoti-account/next-step.png)
 
 <!-- FIXME Only if the user wasn't invited via email -->
 
@@ -61,24 +61,24 @@ The Fingoti Cloud is required to claim Fingoti devices.
    {% /tab %}
    {% /tabs %}
 
-   ![Screenshot of the Create Organisation page](creating-a-fingoti-cloud-account/create-organisation.png)
+   ![Screenshot of the Create Organisation page](creating-a-fingoti-account/create-organisation.png)
 
    1. Press Next Step
 
-   ![Screenshot of the Next Step button](creating-a-fingoti-cloud-account/next-step.png)
+   ![Screenshot of the Next Step button](creating-a-fingoti-account/next-step.png)
 
 4. Ensure the details are correct before proceeding
 
-   ![Screenshot of the Review Your Details page](creating-a-fingoti-cloud-account/review-your-details.png)
+   ![Screenshot of the Review Your Details page](creating-a-fingoti-account/review-your-details.png)
 
    1. Press Register
 
-      ![Screenshot of the Register button](creating-a-fingoti-cloud-account/register.png)
+      ![Screenshot of the Register button](creating-a-fingoti-account/register.png)
 
       The user and organisation have now been created.
 
-      ![Screenshot of the Review Your Details page](creating-a-fingoti-cloud-account/user-and-organisation-created.png)
+      ![Screenshot of the Review Your Details page](creating-a-fingoti-account/user-and-organisation-created.png)
 
 5. Press Verify to verify your email address
 
-   ![Screenshot of the Verify Your Email message](creating-a-fingoti-cloud-account/verify-your-email.png)
+   ![Screenshot of the Verify Your Email message](creating-a-fingoti-account/verify-your-email.png)
