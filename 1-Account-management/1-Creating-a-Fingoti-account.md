@@ -1,7 +1,5 @@
 ---
-title: Creating a Fingoti Cloud account
-# description:
-# date:
+title: Creating a Fingoti account
 ---
 
 # Creating a Fingoti Cloud account
