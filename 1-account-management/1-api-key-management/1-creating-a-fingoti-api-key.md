@@ -13,7 +13,7 @@ title: Creating a Fingoti API key
 
 1. [Go to the Tokens page](https://account.fingoti.com/user/tokens)
 
-   ![Screenshot of the Tokens page](creating-a-fingoti-api-key/tokens.png)
+   ![Screenshot of the Tokens page](common/tokens.png)
 
 2. Press New Token (at the top-right &nearr; of the page)
 
